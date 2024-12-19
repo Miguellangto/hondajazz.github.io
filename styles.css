@@ -593,7 +593,7 @@ body {
   justify-content: center; /* Centers icons within the caption */
   margin-top: 10px; /* Adds space between text and icons */
   position: absolute;
-  top: 60.3%; /* Adjust this to control distance from top of carousel */
+  top: 58%; /* Adjust this to control distance from top of carousel */
   left: 33%;
   transform: translate(-50%, 50%); /* Centers icons horizontally */
   z-index: 999; /* Ensures the icons appear on top of the image */
